@@ -126,7 +126,7 @@ namespace ConsoleCalculator
 
         public void Run()
         {
-            Console.WriteLine("=== Calculator Inteligent (C# OOP) ===");
+            Console.WriteLine("=== Calculator ===");
             calculator.ListOperations();
             Console.WriteLine("Scrie 'exit' pentru a ieși.");
 
